@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"c6dca90a-9eb7-493c-9933-e2200366dc27","ts":"2025-07-27T13:18:57.352+00:00","eventName":"n8n.audit.workflow.updated","message":"n8n.audit.workflow.updated","payload":{"userId":"798feb58-0530-4c7a-819f-91d15e1da022","_email":"ys987618@gmail.com","_firstName":"yash","_lastName":"Solanki","globalRole":"global:owner","workflowId":"WjNfh0ZrU5WJaEIu","workflowName":"My workflow"}}
+{"__type":"$$EventMessageConfirm","confirm":"c6dca90a-9eb7-493c-9933-e2200366dc27","ts":"2025-07-27T13:18:57.354+00:00","source":{"id":"0","name":"eventBus"}}
